@@ -1,0 +1,60 @@
+{
+  "GymMachines":
+  [
+    
+    
+   //////////////////////////////////////
+   {"machinName":"Leg Press",
+       "machineWeight":"500 lbs",
+       "machineID":1,
+       "machineImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/legpress.jpeg",
+       "machineLevel":"Expert",
+       "machinePrice":"$5000",
+       "machineWebsite":"https://yorkbarbell.com/product/35-degree-leg-press/",
+       "machineDescription": "Leg presses are seated exercises done on a leg press machine. To start, sit with your back against a padded backrest and your feet on two large footrests. Your knees are bent to start the exercise. To move the weight, you must straighten your legs and then return them to the bent position.",
+       "machineAge" : "Over 18"},
+   
+   /////////////////////////////////////
+   
+   {"machinName":"Bench Press",
+       "machineWeight":"300 lbs",
+       "machineID":2,
+       "machineImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/benchpress.jpeg",
+       "machineLevel":"Intermediate",
+       "machinePrice":"$3000",
+       "machineWebsite":"https://yorkbarbell.com/product/st-olympic-incline-bench-w-gun-racks/",
+       "machineDescription": "The machine chest press is a machine-based exercise targeting the chest. It approximates the motion of a bench press but is usually performed facing forward and seated upright. Many machines offer multiple grip options, such as overhand, neutral (palms facing), or underhand.",
+       "machineAge" : "Over 15"},
+    
+    /////////////////////////////////////
+    
+    {"machinName":"Lat Pull Down",
+        "machineWeight":"200 lbs",
+        "machineID":3,
+        "machineImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/latpulldown.jpeg",
+        "machineLevel":"Expert",
+        "machinePrice":"$4000",
+        "machineWebsite":"https://yorkbarbell.com/product/st-lat-pulldown/",
+        "machineDescription": "The lat pull down machine is designed for the purpose of compound exercise, specifically exercise meant to both develop and then stress the lat muscle, which is short for lattisimus dorsi. To familiarize yourself briefly with just what exactly your lat muscle is, do the following.",
+        "machineAge" : "Over 18"},
+     
+     /////////////////////////////////////
+     
+     
+     {"machinName":"Lateral Raise",
+         "machineWeight":"100 lbs",
+         "machineID":4,
+         "machineImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/lateralraise.jpeg",
+         "machineLevel":"Beginner",
+         "machinePrice":"$2000",
+         "machineWebsite":"https://yorkbarbell.com/product/vkr-attachment/",
+         "machineDescription": "This unit is made of sturdy rectangular tube steel to center your workouts from start to finish and attaches easily to your York #7240 Multi Gym unit.  With no cable changes and a locking mechanism, this unit is both easy to use and safe. Depending on the exercise, the maximum resistance is 300 lbs.",
+         "machineAge" : "Over 12"}
+      
+      /////////////////////////////////////
+      
+     
+     
+  ],
+  "Status":"OK"
+}
